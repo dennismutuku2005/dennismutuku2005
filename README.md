@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently a student **Infomation Tech. Technical university of kenya**
 
-- 👨‍💻 All of my projects are available at [dennismuuo.co.ke](dennismuuo.co.ke)
+- 👨‍💻 All of my projects are available at [dennismuuo.co.ke](https://dennismuuo.co.ke)
 
 - 📫 How to reach me **admin@dennismuuo.co.ke**
 
-- 📄 Know about my experiences [dennismuuo.co.ke/softwaredev](dennismuuo.co.ke/softwaredev)
+- 📄 Know about my experiences [dennismuuo.co.ke](https://dennismuuo.co.ke/softwaredev)
 
 - ⚡ Fun fact **We are here to destroy ai**
 
@@ -28,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennismutuku2005&show_icons=true&locale=en&layout=compact" alt="dennismutuku2005" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennismutuku2005&show_icons=true&locale=en" alt="dennismutuku2005" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennismutuku2005&" alt="dennismutuku2005" /></p>
