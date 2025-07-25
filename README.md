@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Muuo</h1>
-<h3 align="center">A Junior Software engineer/h3>
+<h3 align="center">A Junior Software engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennismutuku2005&label=Profile%20views&color=0e75b6&style=flat" alt="dennismutuku2005" /> </p>
 
