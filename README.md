@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennismutuku2005" alt="dennismutuku2005" /></a> </p>
 
-- 🔭 I’m currently working on **Tele Verse Payment solution**
-
-- 🌱 I’m currently a student **Infomation Tech. Technical university of kenya**
 
 - 👨‍💻 All of my projects are available at [dennismuuo.co.ke](https://dennismuuo.co.ke)
 
@@ -15,7 +12,7 @@
 
 - 📄 Know about my experiences [dennismuuo.co.ke](https://dennismuuo.co.ke/softwaredev)
 
-- ⚡ Fun fact **We are here to destroy ai**
+- ⚡ Fun fact **Am in love with llms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
