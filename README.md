@@ -4,15 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennismutuku2005" alt="dennismutuku2005" /></a> </p>
 
-
-- 👨‍💻 All of my projects are available at [dennismuuo.co.ke](https://dennismuuo.co.ke)
-
-- 📫 How to reach me **admin@dennismuuo.co.ke**
-
-- 📄 Know about my experiences [dennismuuo.co.ke](https://dennismuuo.co.ke/softwaredev)
-
-- ⚡ Fun fact **Am in love with llms**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/muuo_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muuo_dev" height="30" width="40" /></a>
