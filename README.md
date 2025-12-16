@@ -6,19 +6,6 @@
   
 </div>
 
----
-
-### 💫 About Me
-
-I'm a passionate developer who loves turning ideas into reality through code. Currently exploring new technologies and building projects that make a difference.
-
-- 🔭 Working on exciting projects
-- 🌱 Always learning and growing
-- 💡 Open to collaborate on innovative ideas
-- ⚡ Fun fact: Coffee + Code = Magic
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -27,29 +14,6 @@ I'm a passionate developer who loves turning ideas into reality through code. Cu
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dennis.muuo)
 
 </div>
-
----
-
-### 💻 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=dennismuuo&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=dennismuuo&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
   
