@@ -13,7 +13,6 @@
 
 <div align="center">
   
-### ✨ Thanks for stopping by! ✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dennismuuo&color=blueviolet&style=flat-square)
 
