@@ -4,6 +4,9 @@
   
 </div>
 
+
+[![GPG Key](https://gpg-badge.hesreallyhim.com/dennismutuku2005?style=card&theme=dark)](https://github.com/dennismutuku2005.gpg)
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennis-muuo-7a1b0638b)
