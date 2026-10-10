@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/itzmuuo">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
 </a>
-
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=dennismuuo&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 </div>
