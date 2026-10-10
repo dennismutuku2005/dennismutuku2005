@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Gochi+Hand&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Dennis+Muuo;Building+Nothing" alt="Dennis Muuo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Gochi+Hand&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Dennis+Muuo;IT+Student;DevOps+Engineer;Building+Nothing" alt="Dennis Muuo" />
 
 <br/>
 
